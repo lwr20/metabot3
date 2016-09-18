@@ -1,11 +1,11 @@
 # metabot3
 
-`/scene` - contains the VREP scene
-`metabot3.py` - an example robot control file
-`remoteApi.dll` - files needed to work with V-REP API (windows)
-`remoteApi.so` - files needed to work with V-REP API (linux)
-`vrep.py` - python wrapper for V-REP API
-`vrepConst.py` - constants for V-REP API
+- `/scene` - contains the VREP scene
+- `metabot3.py` - an example robot control file
+- `remoteApi.dll` - files needed to work with V-REP API (windows)
+- `remoteApi.so` - files needed to work with V-REP API (linux)
+- `vrep.py` - python wrapper for V-REP API
+- `vrepConst.py` - constants for V-REP API
 
 Files `remoteApi.dll`, `remoteApi.so`, `vrep.py` and `vrepConst.py` 
 should be copied/linked from V-REP installation folder.
