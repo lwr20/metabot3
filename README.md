@@ -29,3 +29,11 @@ should be copied/linked from V-REP installation folder.
 ###Start robot control script
 - In console:
 - `python metabot3.py` 
+
+## Useful links
+- API overview 
+    - http://www.coppeliarobotics.com/helpFiles/en/remoteApiOverview.htm
+- Python API docs 
+    - http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm
+- Video tutorial
+    - https://www.youtube.com/watch?v=SQont-mTnfM
